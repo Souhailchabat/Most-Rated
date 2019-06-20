@@ -127,7 +127,7 @@ class MostRatedTableViewController: UITableViewController {
         if let desc = desc {
             return desc
         } else {
-            return "No Description is available at the moment."
+            return "No Description is available at the moment"
         }
     }
     
